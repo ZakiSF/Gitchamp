@@ -8,5 +8,7 @@ public class FirstClass {
         System.out.println("");
 
         System.out.println("faker");
+
+        System.out.println("kdjfdk");
     }
 }
