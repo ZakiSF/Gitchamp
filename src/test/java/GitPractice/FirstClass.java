@@ -10,5 +10,7 @@ public class FirstClass {
         System.out.println("faker");
 
         System.out.println("kd");
+        
+        System.out.println("this is another line");
     }
 }
