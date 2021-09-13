@@ -9,6 +9,6 @@ public class FirstClass {
 
         System.out.println("faker");
 
-        System.out.println("kdjfdk");
+        System.out.println("kd");
     }
 }
